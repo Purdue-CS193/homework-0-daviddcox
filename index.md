@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+# David's First CS193 Homework
+
 Hello World! My name is David!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,6 +29,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# My favorite things about cs 193
+
+- We only have 1 lecture a week
+- We don't get too much homework
+- We are learning how to use the terminal
+- I now know how to use github! 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
